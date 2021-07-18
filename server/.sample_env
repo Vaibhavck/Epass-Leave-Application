@@ -1,0 +1,5 @@
+MONGO_URI=<database connection url>
+PORT=<port>
+EMAIL_USER=<your email>
+EMAIL_HOST=<email service>
+EMAIL_PASSWORD=<your email password>

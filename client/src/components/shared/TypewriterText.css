@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+ #cursor {
+	 border-left: 0.1em solid #00ff41;
+	 animation: blink 0.7s steps(1) infinite;
+}
+ @keyframes blink {
+	 50% {
+		 border-color: transparent;
+	}
+}
+ 
